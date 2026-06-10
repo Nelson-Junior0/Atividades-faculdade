@@ -7,7 +7,7 @@ int main(){
 	printf("\n**************************************************************");
     printf("\n* Aluno: NELSON JUNIOR NEVES DOS SANTOS - RA 00227781        *");
     printf("\n* Programa NJNS-PA-16 Múltiplo de 3 e/ou 5                   *");
-    printf("\n**************************************************************\n\n");
+    printf("\n**************************************************************");
     
     printf("\n Uma lanchonete criou uma promoção especial."
 "\n Se o número do pedido for múltiplo de 3, o cliente ganha um refrigerante."

@@ -7,7 +7,7 @@ int main(){
 	printf("\n************************************************************");
     printf("\n* Aluno: NELSON JUNIOR NEVES DOS SANTOS - RA 00227781      *");
     printf("\n* Programa NJNS-JPA14 Tipo de Triângulo ...                *");
-    printf("\n************************************************************\n\n");
+    printf("\n************************************************************");
     
 printf("\n Uma fábrica de estruturas metálicas produz suportes em formato de triângulo para eventos e construções."
 "\n Antes da fabricação, o sistema precisa verificar o tipo do triângulo com base nas medidas informadas pelo"

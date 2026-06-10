@@ -7,7 +7,7 @@ int main(){
 	printf("\n**************************************************************");
     printf("\n* Aluno: NELSON JUNIOR NEVES DOS SANTOS - RA 00227781        *");
     printf("\n* Programa NJNS-JPA-18 Login simples                         *");
-    printf("\n**************************************************************\n\n");
+    printf("\n**************************************************************");
     
     
     printf(

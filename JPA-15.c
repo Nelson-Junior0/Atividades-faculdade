@@ -7,7 +7,7 @@ int main(){
 	printf("\n**************************************************************");
     printf("\n* Aluno: NELSON JUNIOR NEVES DOS SANTOS - RA 00227781        *");
     printf("\n* Programa NJNS-JPA15 Quantas caixas cabem dentro do caminhão*");
-    printf("\n**************************************************************\n\n");
+    printf("\n**************************************************************");
     
     
     printf("\n Uma empresa de logística precisa calcular quantas caixas podem ser transportadas em um caminhão sem"

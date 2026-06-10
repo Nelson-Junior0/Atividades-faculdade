@@ -7,7 +7,7 @@ int main(){
 	printf("\n**************************************************************");
     printf("\n* Aluno: NELSON JUNIOR NEVES DOS SANTOS - RA 00227781        *");
     printf("\n* Programa NJNS-JPA-17 O Sensor do Parque Temático           *");
-    printf("\n**************************************************************\n\n");
+    printf("\n**************************************************************");
     
     printf(	
 "\n Você foi contratado para programar o sistema de segurança de uma nova montanha-russa em um parque de"
