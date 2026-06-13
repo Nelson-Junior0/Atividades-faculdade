@@ -6,26 +6,25 @@ int main(){
 	
 	printf("\n**************************************************************");
     printf("\n* Aluno: NELSON JUNIOR NEVES DOS SANTOS - RA 00227781        *");
-    printf("\n* Programa NJNS-JPA-40  Tabuada com while                    *");
+    printf("\n* Programa NJNS-JPA-47  Tabuada de um número                 *");
     printf("\n**************************************************************\n\n");
     
     printf(	
-    "Um aluno deseja praticar multiplicação usando repetição.\nO programa deve receber um número e mostrar sua tabuada de 1 a 10 utilizando while."
+    "Um estudante quer praticar multiplicação usando a estrutura do...while.\nO programa deve receber um número e exibir sua tabuada de 1 até 10."
     );
-    
-    int numero, i = 1;
+
+
+int numero, i = 1;
 
     printf("\nDigite um numero: ");
     scanf("%d", &numero);
 
-    printf("\nTabuada do %d:\n", numero);
-
-    while (i <= 10) {
+    do {
         printf("%d x %d = %d\n", numero, i, numero * i);
         i++;
-    }
+
+    } while (i <= 10);
 
     return 0;
-    
-    
+
 }

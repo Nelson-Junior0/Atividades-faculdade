@@ -12,8 +12,8 @@ int main(){
     printf(	
     "Um sistema bancário deseja identificar quantos dígitos possui um número informado.\nO programa deve receber um número positivo e mostrar quantos dígitos ele possui."
     );
-long long numero;
-int contador = 0;
+
+int numero, contador = 0;
 
     printf("\n Digite um numero positivo: ");
     scanf("%d", &numero);
